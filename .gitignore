@@ -1,1 +1,4 @@
 venv
+censor_income.egg-info
+build
+dist
